@@ -15,7 +15,8 @@
       "female": 54.9
     },
     "authors": 23799675,
-    "messages": 408810222
+    "messages": 408810222,
+    "time":
   },
 
   "ok": {
@@ -51,6 +52,7 @@
     },
     "authors": 38051830,
     "messages": 135323752
+    "time":
   }
 
   "youtube": {
@@ -67,7 +69,8 @@
       "female": 39.8
     },
     "authors": 8504431,
-    "messages": 28144172
+    "messages": 28144172,
+    "time":
   },
 
   "tiktok": {
@@ -84,6 +87,7 @@
       "female": 55.4
     },
     "authors": 4023211,
-    "messages": 8461849
+    "messages": 8461849,
+    "time":
   }
 }

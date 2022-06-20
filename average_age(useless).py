@@ -39,7 +39,7 @@ data = {
 
 lst = []
 
-for i in range(110):
+for i in range(100):
     age = MiddleAge(data, mass)
     middleAge = age.getMiddleAge()
     sum_lst = sum(middleAge)
